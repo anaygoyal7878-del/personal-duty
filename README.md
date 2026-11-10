@@ -45,15 +45,18 @@ Starting totals are nearly equal, so every role can win and every role can lose.
 
 Each decision shows the history of the moment, the choices, and a primary source quote with a link. Choices are tagged duty, middle path or convenience. Sources include the Constitution's Preamble and Madison's Federalist Nos. 10, 51 and 55.
 
-| Part of the journey | Topic |
-|---|---|
-| Road to independence | Community work day against your own responsibilities |
-| Building the new government | Volunteering to organize a local project |
-| Factions | Looking past your own group (Federalist 10) |
-| Checks and balances | Respecting systems that protect others (Federalist 51) |
-| Rights and responsibilities | Federalist and Antifederalist debate |
-| Should I vote? | Republican government depends on citizens choosing (Federalist 55) |
-| Later eras to today | Continued tradeoffs, ending in the present day |
+| # | Stop | Era |
+|---|---|---|
+| 1 | Your Community Needs You | Colonial countryside, 1774 |
+| 2 | Patrick Henry | Colonial town, 1775 |
+| 3 | Common Sense | Colonial town, 1775 |
+| 4 | The Declaration | Revolutionary community, 1776 |
+| 5 | Building the New Government | Founding era, 1787 |
+| 6 | Federalist 10 | Founding era, 1787 |
+| 7 | Federalist 51 | Constitutional debate, 1788 |
+| 8 | Rights and Responsibilities | Constitutional debate, 1788 to 1791 |
+| 9 | Should I Vote? | Today |
+| 10 | Jury Service | Today |
 
 ## Civic personality
 
